@@ -1,0 +1,15 @@
+
+全球国家地图: echarts-countries-pypkg (1.9MB): 世界地图和 213 个国家，包括中国地图
+中国省级地图: echarts-china-provinces-pypkg (730KB)：23 个省，5 个自治区
+中国市级地图: echarts-china-cities-pypkg (3.8MB)：370 个中国城市
+
+pip install echarts-countries-pypkg
+pip install echarts-china-provinces-pypkg
+pip install echarts-china-cities-pypkg
+
+可以作出南海诸岛的缩略图
+
+没有详细九段图
+
+
+
