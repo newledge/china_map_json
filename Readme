@@ -11,5 +11,10 @@ pip install echarts-china-cities-pypkg
 
 没有详细九段图
 
+/json_data的json文件可以加载九段段图
+
+可以用两种方式加载：
+前后端不分离的方式：web服务直接生成html的方式，
+前后端分离的方式：可以读取json文件，调用数据加载在<script>中
 
 
